@@ -1,5 +1,10 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
+This code was directly followed from the following video:
+##### JavaScript #WebDevelopment #Programming
+https://www.youtube.com/watch?v=j59qQ7YWLxw&t=1995s
+#### Build A Calculator With JavaScript Tutorial
+
 Welcome Sara Oliver,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
